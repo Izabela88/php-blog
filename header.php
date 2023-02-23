@@ -19,25 +19,9 @@
                 <li class="has-children">
                     <a href="#0" title="">Categories</a>
                     <ul class="sub-menu">
-                        <li><a href="category.php">Design</a></li>
-                        <li><a href="category.php">Lifestyle</a></li>
-                        <li><a href="category.php">Photography</a></li>
-                        <li><a href="category.php">Vacation</a></li>
-                        <li><a href="category.php">Work</a></li>
-                        <li><a href="category.php">Health</a></li>
-                        <li><a href="category.php">Family</a></li>
-                        <li><a href="category.php">Relationship</a></li>
+                        <li><a href="category.php">...</a></li>
                     </ul>
                 </li>
-                <li class="has-children">
-                    <a href="#0" title="">Blog</a>
-                    <ul class="sub-menu">
-                        <li><a href="single-video.php">Video Post</a></li>
-                        <li><a href="single-audio.php">Audio Post</a></li>
-                        <li><a href="single-standard.php">Standard Post</a></li>
-                    </ul>
-                </li>
-                <li><a href="styles.php" title="">Styles</a></li>
                 <li><a href="about.php" title="">About</a></li>
                 <li><a href="contact.php" title="">Contact</a></li>
             </ul> <!-- end s-header__nav -->
