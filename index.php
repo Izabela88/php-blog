@@ -6,7 +6,7 @@
     <!--- basic page needs
     ================================================== -->
     <meta charset="utf-8">
-    <title>izabela dev blog</title>
+    <title>izabeladev blog</title>
     <meta name="description" content="">
     <meta name="author" content="">
 
@@ -140,10 +140,11 @@
             <p>Follow</p>
             <span></span>
             <ul class="s-hero__social-icons">
-                <li><a href="#0"><i class="fab fa-facebook-f" aria-hidden="true"></i></a></li>
-                <li><a href="#0"><i class="fab fa-twitter" aria-hidden="true"></i></a></li>
-                <li><a href="#0"><i class="fab fa-instagram" aria-hidden="true"></i></a></li>
-                <li><a href="#0"><i class="fab fa-dribbble" aria-hidden="true"></i></a></li>
+                <li><a target="_blank"
+                        href="https://www.linkedin.com/in/%F0%9F%91%A9%E2%80%8D%F0%9F%92%BBizabela-krupinska-161a351a5/"><i
+                            class="fab fa-linkedin" aria-hidden="true"></i></a></li>
+                <li><a target="_blank" href="https://github.com/Izabela88"><i class="fab fa-github"
+                            aria-hidden="true"></i></a></li>
             </ul>
         </div> <!-- end s-hero__social -->
 
