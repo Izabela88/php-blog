@@ -8,7 +8,7 @@
 
             <div class="column large-3 medium-6 tab-12 s-footer__info">
 
-                <h5>About Our Site</h5>
+                <h5>About My Blog</h5>
 
                 <p>
                     Lorem ipsum Ut velit dolor Ut labore id fugiat in ut
@@ -25,25 +25,23 @@
                 <h5>Site Links</h5>
 
                 <ul>
-                    <li><a href="#0">About Us</a></li>
-                    <li><a href="#0">Blog</a></li>
-                    <li><a href="#0">FAQ</a></li>
-                    <li><a href="#0">Terms</a></li>
-                    <li><a href="#0">Privacy Policy</a></li>
+                    <li><a href="home.php">Home</a></li>
+                    <li><a href="about.php">About</a></li>
+                    <li><a href="contact.php">Contact</a></li>
+
                 </ul>
 
             </div> <!-- end s-footer__site-links -->
 
             <div class="column large-2 medium-3 tab-6 s-footer__social-links">
 
-                <h5>Follow Us</h5>
+                <h5>Follow Me</h5>
 
                 <ul>
-                    <li><a href="#0">Twitter</a></li>
-                    <li><a href="#0">Facebook</a></li>
-                    <li><a href="#0">Dribbble</a></li>
-                    <li><a href="#0">Pinterest</a></li>
-                    <li><a href="#0">Instagram</a></li>
+                    <li><a target="_blank"
+                            href="https://www.linkedin.com/in/%F0%9F%91%A9%E2%80%8D%F0%9F%92%BBizabela-krupinska-161a351a5/">Linkedin</a>
+                    </li>
+                    <li><a target="_blank" href="https://github.com/Izabela88">GitHub</a></li>
                 </ul>
 
             </div> <!-- end s-footer__social links -->
