@@ -69,6 +69,43 @@
                     <!-- /.col-lg-12 -->
                 </div>
 
+                <!--   All Categories -->
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        All Categories
+                    </div>
+                    <div class="panel-body">
+                        <div class="table-responsive">
+                            <table class="table table-striped table-bordered table-hover">
+                                <thead>
+                                    <tr>
+                                        <th>Id</th>
+                                        <th>Name</th>
+                                        <th>Meta Title</th>
+                                        <th>Category Path</th>
+                                        <th>Action</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>...</td>
+                                        <td>...</td>
+                                        <td>...</td>
+                                        <td>...</td>
+                                        <td>
+                                            <button>View</button>
+                                            <button>Edit</button>
+                                            <button>Delete</button>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+                <!-- End  All Categories -->
+
+
                 <?php include "footer.php"; ?>
             </div>
             <!-- /. PAGE INNER  -->
